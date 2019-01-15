@@ -10,11 +10,11 @@ Proudly presenting, [React Express!](http://www.react.express)
 
 ## Table of Contents
 
-[Environment](http://www.react.express/environment)
-* [Quick Start](http://www.react.express/quick_start)
-* [Setup & Build Tools](http://www.react.express/setup)
-  * [npm](http://www.react.express/npm)
-  * [Webpack](http://www.react.express/webpack)
+[Environment](http://www.react.express/environment){:target="_blank"}
+* [Quick Start](http://www.react.express/quick_start){:target="_blank"}
+* [Setup & Build Tools](http://www.react.express/setup){:target="_blank"}
+  * [npm](http://www.react.express/npm){:target="_blank"}
+  * [Webpack](http://www.react.express/webpack){:target="_blank"}
   * [Babel](http://www.react.express/babel)
   * [React](http://www.react.express/react_setup)
 
